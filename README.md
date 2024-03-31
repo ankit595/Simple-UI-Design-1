@@ -1,16 +1,6 @@
 # sample_1
 
 A new Flutter project.
+![splash](https://github.com/ankit595/Simple-UI-Design-1/assets/56728798/28d99d34-8c3f-40d8-84d4-7f4055dc48c3)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![main](https://github.com/ankit595/Simple-UI-Design-1/assets/56728798/fcce2d82-2430-4f9b-a09d-f9c5adc440b7)
